@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SundeepPatel
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on my 100 Days of learning SwiftUI
-- 📫 How to reach me . Email: iOS.SundeepPatel@gmail.com, MOB: +91 8421717072
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps from Free Source Platforms.
+- 💞️ I’m looking to collaborate on my DevOps learning.
+- 📫 How to reach me . Email: iOS.SundeepPatel@gmail.com, MOB: +91 8763366866
 
 <!---
 SundeepPatel/SundeepPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
